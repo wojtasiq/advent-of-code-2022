@@ -15,5 +15,6 @@ f.close()
 
 result_array.sort(reverse=True)
 
-# 72478
-print(result_array[0])
+
+# 210367
+print(sum(result_array[0:3]))
